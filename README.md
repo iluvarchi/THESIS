@@ -118,14 +118,14 @@ We used our own custom images as well as the supplementary data sources below.
 > It was originally hosted in Google Colab before downloaded in a local machine. The file can be imported back into Google Colab for
 > model training using Google Colab's GPUs.**
 
-## Created By
-Amazing Grace O. Cabiles - Computer Vision Developer <br>
-Cyrelle Kristin P. Gapit - Android Developer <br>
-Francen P. Manalo - Documenter
-
 ## Tech Stack
 1. LabelImg v1.8.1 for Image Annotations
 2. Python v3.12.13 from Google Colab
 3. Ultralytics YOLO Nano versions
 4. Java v11 for the Android Application
 5. Android Studio for Android Application Development and Testing
+
+## Created By
+Amazing Grace Cabiles - Computer Vision Developer <br>
+Cyrelle Kristin Gapit - Android Developer <br>
+Francen Manalo - Documenter
